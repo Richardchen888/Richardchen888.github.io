@@ -1,6 +1,6 @@
 欢迎来到陈立勤的个人主页！
 
-
+这是一名大学生的个人主页
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
